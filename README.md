@@ -3,7 +3,9 @@ Company: Tsiws (formerly Island Website Solutions)
 Location: Jamaica
 
 Vision: To drive innovation and excellence in AI-powered technology solutions.
+
 Mission: To help businesses leverage the power of AI to transform their operations and achieve success.
+
 Founder: Indradale. Find me at x.com @ Indradale
 
 Tsiws: AI-Powered Technology Solutions for a Smarter Future
@@ -32,10 +34,15 @@ Explore our wide range of services and let us help you achieve your digital aspi
 Website: https://www.tsiws.com.
 
 Follow Us: 
+
 Twitter: https://x.com/tsiws_official 
+
 Instagram: https://instagram.com/tsiws_official
+
 TikTok: https://tiktok.com/@tsiws_official
+
 Facebook: https://facebook.com/tsiws
+
 YouTube: https://youtube.com/@tsiws
 
 Contact Us:
