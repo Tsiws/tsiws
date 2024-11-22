@@ -8,6 +8,9 @@ Mission: To help businesses leverage the power of AI to transform their operatio
 
 Founder: Indradale. Find me at x.com @ Indradale
 
+
+
+
 Tsiws: AI-Powered Technology Solutions for a Smarter Future.
 
 
