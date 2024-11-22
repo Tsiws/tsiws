@@ -26,18 +26,17 @@ Commitment to Excellence: We are dedicated to delivering exceptional service and
 
 Explore our wide range of services and let us help you achieve your digital aspirations. Contact us today for a free consultation.
 
-------------
-Website: https://www.tsiws.com.
-------------
-Follow Us:
 
-Twitter: https://x.com/tsiws_official
+Website: https://www.tsiws.com.
+
+Follow Us: 
+Twitter: https://x.com/tsiws_official 
 Instagram: https://instagram.com/tsiws_official
 TikTok: https://tiktok.com/@tsiws_official
 Facebook: https://facebook.com/tsiws
 YouTube: https://youtube.com/@tsiws
-------------
+
 Contact Us:
 support@tsiws.com
-------------
+
 © 2025 Tsiws. All rights reserved.
