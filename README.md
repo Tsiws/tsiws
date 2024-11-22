@@ -8,7 +8,9 @@ Mission: To help businesses leverage the power of AI to transform their operatio
 
 Founder: Indradale. Find me at x.com @ Indradale
 
-Tsiws: AI-Powered Technology Solutions for a Smarter Future
+Tsiws: AI-Powered Technology Solutions for a Smarter Future.
+
+
 Tsiws is a Jamaican-based AI-first technology agency specializing in developing cutting-edge solutions across various industries. We help businesses transform their operations, enhance productivity, and unlock new possibilities through the power of Artificial Intelligence.
 
 What We Do:
